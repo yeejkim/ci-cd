@@ -13,7 +13,6 @@ class Step07CicdApplicationTests {
 		
 		System.out.println("비교 전***********");
 		assertEquals(20, result);  
-		
 		System.out.println("비교 후***********");
 	}
 
